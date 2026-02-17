@@ -6,7 +6,7 @@
 
 _Chaos, containerized._
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-orange?style=for-the-badge)](https://chanhdai.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-orange?style=for-the-badge)](https://prathfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prathamesh-medage)
 [![Location](https://img.shields.io/badge/📍_Pune-India-green?style=for-the-badge)](https://maps.google.com/?q=Pune)
 
